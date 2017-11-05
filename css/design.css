@@ -1,0 +1,31 @@
+#congres113{
+  display:none;
+}
+#attendance-table{
+  display:none;
+}
+#party-loyalty{
+  display:none;
+}
+#bandera{
+	height: 200px;
+    width: 100%;
+}
+#attendance-table{
+	width:96%;
+	margin-right:2%;
+	margin-left: 2%;
+}
+#party-loyalty{
+	width:96%;
+	margin-right:2%;
+	margin-left: 2%;
+}
+#sortBystate{
+	display:none;
+}
+#chartdiv {
+  width: 100%;
+  height: 500px;
+/*	display:none !important;*/
+}
